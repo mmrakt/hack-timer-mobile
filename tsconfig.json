@@ -4,12 +4,13 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
-    "lib": ["ESNext"],
+    "lib": ["ES2022"],
     "noEmitHelpers": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "strict": true
+    "strict": true,
+    "module": "esnext"
   }
 }
